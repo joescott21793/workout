@@ -1,6 +1,6 @@
 // Network first so updates show up right away; falls back to the cached copy
 // when offline or when the gym's signal takes longer than 4 seconds.
-const CACHE = 'workout-v8';
+const CACHE = 'workout-v9';
 const DEMOS = ['db-press-flat', 'db-incline-press', 'cable-fly', 'seated-db-shoulder-press', 'cable-rope-pushdown',
   'single-arm-cable-tricep-pulldown', 'lat-pulldown', 'row-machine', 'one-arm-db-row', 'cable-face-pull', 'db-curl',
   'cable-hammer-curl', 'horizontal-leg-press', 'db-bulgarian-split-squat', 'db-romanian-deadlift',
